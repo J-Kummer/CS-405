@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bufferOverflow/bufferOverflow.vcxproj" Id="dd9c43a6-1b37-44d3-8220-ecef305d279c" />
+</Solution>
